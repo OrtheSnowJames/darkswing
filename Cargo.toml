@@ -1,0 +1,9 @@
+[package]
+name = "darkswing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.9.1"
+rand_chacha = "0.9.0"
+raylib = "5.5.1"
