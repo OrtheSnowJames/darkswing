@@ -38,8 +38,3 @@ cargo build --release
 target/release/darkswing
 
 ```
-
-## TODO
-[] Add multiplayer support
-
-[] Add sprites (maybe)
